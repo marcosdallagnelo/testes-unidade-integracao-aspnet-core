@@ -1,0 +1,1 @@
+Este é um fonte exemplo de implementação de testes unitários e testes integração em Asp.Net Core usando Visual Studio Code.
